@@ -1,0 +1,16 @@
+table	{
+	border: 1px solid black;
+	text-align: center;
+	}
+td:hover	{
+	background-color: yellow;
+	color: black;
+	}
+tr, th	{
+	background-color: black;
+	color: white;
+	}
+tr, td	{
+	background-color: red
+	color: black;
+	}
